@@ -42,7 +42,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<finalName>restaurant</finalName>
+		<finalName>rest</finalName>
 	</build>
 
 </project>
